@@ -1,57 +1,5 @@
-<h1>💫 About Me</h1>
-👋 Hi, I'm <b>Sameer Malik</b> — a <b>Data Scientist</b> and <b>Cloud Computing Visionary</b> who transforms raw data into intelligence that drives real-world impact.<br>
-Currently pursuing my <b>BCA at Amity University, Lucknow (2025)</b>, I thrive where <b>machine learning precision</b> meets <b>cloud-scale innovation</b>.<br><br>
-
-<h2>🚀 Mission</h2>
-To craft solutions that <b>predict, prevent, and perform</b> — turning numbers into narratives, insights into action, and ideas into results.<br><br>
-
-<h2>💼 Experience</h2>
-🧠 <b>Machine Learning Intern — CodSoft</b> (May 2024 – Jun 2024)<br>
-🎬 Built a <b>Movie Genre Classifier</b> (TF-IDF + Logistic Regression)<br>
-🔐 Developed a <b>Fraud Detection Model</b> using EDA + classification algorithms<br>
-📉 Created a <b>Customer Churn Predictor</b> with behavioral analysis<br>
-📬 Designed a <b>Spam SMS Classifier</b> using NLP & Naive Bayes<br><br>
-
-🌐 <b>Web Developer Intern — Meta Craft Lab</b> (Jun 2024 – Jul 2024)<br>
-📝 Created a <b>Svelte Note-Taking App</b> with IndexedDB for persistence<br>
-🔁 Built a <b>Drag-and-Drop Flowchart Builder</b><br>
-📸 Developed an <b>Instagram Clone</b> with SQLite & HTML5 canvas filters<br>
-🔧 Led <b>GitHub collaboration</b> & version control for seamless delivery<br><br>
-
-☁️ <b>Google Cloud Arcade 2k24</b> (Jul 2024 – Sep 2024)<br>
-📦 Worked on <b>Cloud Storage, Compute Engine, BigQuery, Document AI</b><br>
-🛡️ Deployed <b>Terraform, Cloud Monitoring, and Enterprise Security</b><br>
-🤖 Integrated <b>AI APIs</b> and real-time automation pipelines<br><br>
-
-<h2>🏆 Signature Projects</h2>
-🎥 <b>Video Segmentation Research</b> — Classical vs ML vs DL (CNNs, FCNs, Transformers)<br>
-📚 <b>Gurukul Library Management System</b> — Secure Streamlit + SQLite platform<br>
-🌐 <b>NGO Connect</b> — Full-stack Flask volunteering & donation app with analytics<br>
-📧 <b>EMAIL DETECTOR</b> — ML spam/genuine email classifier with real-time predictions<br>
-🌦️ <b>Weather Data Insights</b> — Seasonal trends, rainfall & temperature analysis<br>
-📈 <b>Superstore Power BI Dashboard</b> — KPI-driven business intelligence dashboard<br><br>
-
-<h2>🧰 Tech Arsenal</h2>
-<b>Languages:</b> Python 🐍 | SQL 🧾 | Svelte ⚡<br>
-<b>Libraries:</b> Pandas | NumPy | Scikit-learn | Matplotlib<br>
-<b>Tools:</b> Power BI | MySQL | Streamlit | Excel | Canva<br>
-<b>Platforms:</b> Google Cloud ☁️ | GitHub 🐙 | Jupyter 📓 | VS Code<br>
-<b>Soft Skills:</b> Analytical Thinking 📊 | Problem Solving 🧩 | Collaboration 🤝<br><br>
-
-<h2>🏅 Achievements</h2>
-🏅 <b>Google Cloud Arcade Graduate</b> — 10 weeks of cloud lab mastery<br>
-💼 <b>CodSoft ML Intern</b> — Delivered production-ready ML models<br>
-💻 <b>Meta Craft Lab Intern</b> — Led full-stack product builds<br>
-🧠 <b>Goldman Sachs</b> — Software Engineering Virtual Experience<br>
-🤖 <b>Cognizant AI Simulation</b> — AI workflow execution<br>
-🌐 <b>Cisco Certified</b> — Networking fundamentals<br><br>
-
-<h2>📬 Let's Connect</h2>
-📧 <b>Email:</b> sameermalik1419@gmail.com<br>
-🔗 <b>LinkedIn:</b> <a href="#">Click Here</a><br>
-🐙 <b>GitHub:</b> <a href="#">Click Here</a><br><br>
-
-<i>💡 I don’t just build projects — I build the future.</i>
+# 💫 About Me:
+👋 Hi, I'm Sameer Malik — an aspiring Data Scientist and Cloud Computing Enthusiast, currently pursuing my BCA at Amity University, Lucknow (2025). I’m passionate about turning data into actionable insights using machine learning, data analysis, and cloud technologies.<br><br>💼 Experience<br>🧠 Machine Learning Intern — CodSoft (May 2024 – Jun 2024)<br>🎬 Developed a Movie Genre Classifier using TF-IDF and Logistic Regression<br><br>🔐 Built a Fraud Detection Model using classification algorithms and EDA<br><br>📉 Created a Customer Churn Predictor with financial behavioral analysis<br><br>📬 Designed a Spam SMS Classifier using NLP and Naive Bayes<br><br>🌐 Web Developer Intern — Meta Craft Lab (Jun 2024 – Jul 2024)<br>📝 Created a Svelte Note-Taking App with IndexedDB for persistent storage<br><br>🔁 Developed a Flowchart Builder with drag-and-drop features<br><br>📸 Built an Instagram Clone with SQLite and HTML5 canvas filters<br><br>🔧 Led GitHub collaboration and version control for project delivery<br><br>☁️ Google Cloud Arcade 2k24 Participant (Jul 2024 – Sep 2024)<br>📦 Worked on Cloud Storage, Compute Engine, BigQuery, and Document AI<br><br>🛡️ Gained hands-on experience with Terraform, Cloud Monitoring, and Chrome Enterprise Security<br><br>🤖 Completed labs focused on AI APIs, DevOps workflows, and real-time cloud integrations<br><br>📊 Projects I’m Proud Of<br>🎥 Video Segmentation Research<br>A comparative study on classical, ML, and deep learning-based segmentation (CNNs, FCNs, Transformers)<br>📄 Read Report | 💻 Notebook<br>📸 Screenshots | 🎬 Demo Video<br><br>📚 Gurukul Library Management System<br>Web-based system built using Streamlit, SQLite, and bcrypt<br>🔐 Secure admin login, ➕ book & student registration, 📤 issue & return tracking<br>📁 Screenshots<br><br>🌐 NGO Connect<br>Full-stack Flask app for volunteering and donations<br>👥 Volunteer management, 💸 donation tracking, and 📊 dashboard integration<br>⭐ GitHub | 📸 Screenshots<br><br>📧 EMAIL DETECTOR <br>Python-based ML app for spam and genuine email classification<br>🗣️ NLP processing, 📊 Naive Bayes model, and 🛡️ real-time predictions <br>⭐ GitHub | 📸 Screenshots<br><br> 🌦️ Weather Data Analysis & Visualization <br> Data analysis project using Jupyter Notebook and historical weather data (Excel) <br> 📈 Trend analysis, 🌧️ rainfall & temperature insights, and 📊 seasonal visualizations<br><br>🛡️ Fraud Detection<br>Identified anomalies in transactions using supervised classification techniques<br><br>📉 Customer Churn Prediction<br>Predicted subscriber attrition using logistic regression and behavioral patterns<br><br>📨 Spam SMS Classifier<br>Classified SMS content using NLP and probabilistic models<br><br>🎞️ Movie Genre Prediction<br>Predicted genres using movie metadata and TF-IDF features<br><br>🧠 Medical Image Segmentation<br>Evaluated performance of classical image segmentation methods<br><br>📈 Superstore Power BI Dashboard<br>Built an interactive dashboard with dynamic KPIs and slicers<br><br>🧰 Tech Stack<br>Languages: Python 🐍 | SQL 🧾 | Svelte ⚡<br>Libraries: Pandas, NumPy, Scikit-learn, Matplotlib<br>Tools: Power BI, MySQL, Streamlit, Excel, CANVA<br>Platforms: Google Cloud ☁️ | GitHub 🐙 | Jupyter 📓 | VS Code<br>Soft Skills: Analytical Thinking 📊 | Problem Solving 🧩 | Collaboration 🤝<br><br>🏆 Achievements<br>🏅 Google Cloud Arcade Graduate – Completed 10 weeks of cloud-based labs and projects<br>💼 CodSoft ML Intern – Delivered real-world ML models and analysis<br>💻 Meta Craft Lab Intern – Led full-stack web development projects<br>🧠 Goldman Sachs – Completed Software Engineering Virtual Experience<br>🤖 Cognizant AI Simulation – Practical AI workflow implementation<br>🌐 Cisco Certified – "Get Connected" foundational networking program<br><br>📬 Let’s Connect<br>📧 sameermalik1419@gmail.com<br>🔗 LinkedIn<br>🐙 GitHub
 
 
 
